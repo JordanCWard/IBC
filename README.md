@@ -6,7 +6,7 @@ IBC, founded in 2017, is a global bike company specializing in bicycles and bicy
 
 This dashboard was created in Power BI. The data was cleaned using Excel and Power Query.
 
-
+findings and recommendations, answer the questions below
 Which products drive profit/loss in each country?
 What categories and subcategories drive profit/loss in each country?
 How does revenue develop over time?
@@ -18,16 +18,13 @@ Which subcategories drive the profit margin?
 Which customers are the most valuable?
 Details about individual orders must be accessible.
 
+
 ### High-Impact Recommendations:
 
 - **Strategic Growth in Japan:** Capitalize on Japan’s preference for premium products and high average order value (AOV) by enhancing localized strategies to drive sales and deepen market penetration.
 - **March Sales Opportunity:** Maximize the 18% March rebound with targeted campaigns focused on post-holiday customers, featuring spring promotions and new product launches.
 - **Address Refund Rates:** Tackle high refund rates in the UK, Canada, and India by identifying root causes and implementing solutions to boost satisfaction and profitability. <br> <br>
 
-
-
-
-The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/elist_analysis/blob/main/Elist_ERD.png). <br> <br>
 
 
 
