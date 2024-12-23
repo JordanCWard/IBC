@@ -17,7 +17,7 @@ How does the revenue of each category develop over time?
 Which subcategories drive the profit margin?
 Which customers are the most valuable?
 Details about individual orders must be accessible.
-
+<br>
 
 ### High-Impact Recommendations:
 
