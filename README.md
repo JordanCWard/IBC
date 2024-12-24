@@ -18,6 +18,7 @@ Which subcategories drive the profit margin?
 Which customers are the most valuable?
 Details about individual orders must be accessible.
 <br>
+<br>
 
 ### High-Impact Recommendations:
 
