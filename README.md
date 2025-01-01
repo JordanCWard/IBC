@@ -7,139 +7,134 @@ IBC, founded in 2017, is a global bike company specializing in bicycles and bicy
 This dashboard was created in Power BI. The data was cleaned using Excel and Power Query.
 
 
-
-revenue
-110.34 million in total revenue
-increased from 6 million in 2018 to 12.77 million in 2020
-best quarter was consistently q3
-best performing quarter: 2020 q1, 1.9 million
-worst performing quarter: 2018 q2, 378k
-peaked in 2019 at 14.1 million
-
-
-profit
-13.08 million in total profit
-mountain bikes 6.1 million
-road bikes 4.4 million
-jerseys -88k
-no pattern with best performing quarter
-best performing quarter: 2019 q3, 14 million
-worst performing quarter: 2017 q4, 5.9 million
-peaked in 2020 q1 at 1.9 million
-
-
-profit margin by subcategory
-overall: accessories 59%, clothing 24%, components 15%, bikes 13%
-best: accessories started at 40% in 2017, 61% in 2020
-worst: components, 5% in 2017, 15% in 2020
-
-top 10 customers by revenue
-all in France, average 13k in revenue
-
-revenue by category
-bikes the most, then components, then clothing then accessories
-revenue peaked in 2019: 36 m for bikes, down to 21 m in 2020
-
-best subcategories by profit
-mountain bikes 6.1 million
-road bikes 4.4 million
-mountain frames 500k
-touring bikes 466k
-helmets 230k
-
-worst subcategories by profit
-jerseys -88k
-touring frames -3k
-caps -0.9k
-chains 2.4k
-pumps 4.2k
-
-best subcategories by profit margin
-fenders 63%
-bike stands 63%
-tires and tubes 62%
-bottles and cages 61%
-cleaners 55%
-
-worst subcategories by profit margin
-touring frames 0%
-jerseys 1%
-road frames 4%
-touring bikes 5%
-caps 10%
-
-
-Which products drive profit/loss in each country?
-
-US, canada, UK, france
-best: mountain bikes
-worst: jerseys
-
-Australia
-best: road bikes
-worst: touring frames
-
-Germany
-best: road bikes
-worst: jerseys
-
-
-
-
-What categories and subcategories drive profit/loss in each country?
-
-How does revenue develop over time?
-
-What is the year-over-year difference in profit and revenue?
-
-How does the average profit and profit margin develop over time?
-
-How does the revenue of each category develop over time?
-
-Which subcategories drive the profit margin?
-
-Which customers are the most valuable?
-
-Details about individual orders must be accessible.
-
-
 ### High-Impact Recommendations:
 
 - **Strategic Growth in Japan:** Capitalize on Japan’s preference for premium products and high average order value (AOV) by enhancing localized strategies to drive sales and deepen market penetration.
 - **March Sales Opportunity:** Maximize the 18% March rebound with targeted campaigns focused on post-holiday customers, featuring spring promotions and new product launches.
 - **Address Refund Rates:** Tackle high refund rates in the UK, Canada, and India by identifying root causes and implementing solutions to boost satisfaction and profitability. <br> <br>
 
+### High-Impact Recommendations:
+
+-   **Capitalize on High-Margin Items:** Focus on subcategories and categories with the highest profit margins, including Accessories (59% margin), Fenders, Bike Stands, and Tires & Tubes.
+
+-   **Optimize Underperforming Products:** Revisit pricing, production, and marketing strategies for subcategories with weak or negative profit margins (e.g., Jerseys, Touring Frames).
+
+-   **Leverage Best-Selling Categories:** Bikes consistently show strong revenue (peaking at $36 million in 2019). Strengthen marketing campaigns and supply chain management around key bike subcategories (Mountain Bikes, Road Bikes) to build momentum.
+
+-   **Tailor Efforts to Top Regions and Customers:** Countries such as France and Germany have higher average revenue per top customer ($13k in France, $10k in Germany). Create targeted promotions or loyalty programs for France and Germany to further increase sales.
 
 
+### Dashboards
 
 <img width="1200" alt="Dashboard" src="https://github.com/user-attachments/assets/c8cc56fc-9b96-4eb1-b2c5-b27bbf669576" />
 
+<br>
 
 <img width="1200" alt="Sales & Customers" src="https://github.com/user-attachments/assets/68441bfb-77a1-470f-a536-c63be19faa9c" />
 
-
-
-
-
+<br>
 
 ### <p align="center"> Insights Deep-Dive </p>
 
 This analysis focuses on providing insights and recommendations in the following key areas:
 
-- [Sales Insights](#sales-insights)
-- [Product Analysis](#product-analysis)
-- [Global Market](#global-market)
-- [Loyalty Program](#loyalty-program)
-- [Marketing Strategies](#marketing-strategies)
-- [Refund Analysis](#refund-analysis)
-- [Purchasing Platforms](#purchasing-platforms)
-- [Shipping Performance](#shipping-performance) <br> <br> <br>
+- [Revenue](#revenue)
+- [Profit](#profit)
+- [Categories](#categories)
+- [Subcategories](#subcategories)
+- [Countries](#countries) <br> <br> <br>
 
 
-### Sales Insights
 
-#### Findings:
+### Revenue
 
-<img width="350" alt="Sales by Year" src="https://github.com/user-attachments/assets/3ced1996-ffdb-43df-8ce1-38b48d833fcd"> <br>
+-   **Total Revenue**: $110.3 million
+-   **Growth Over Time**: Increased from $6 million in Q3 2017 to $12.8 million in Q2 2020.
+-   **Best Quarter**: Q3 2019, generating $14.1 million.
+-   **Weakest Quarter**: Q4 2017, with $5.9 million.
+-   **Peak Year**: Revenue peaked at $43 million in 2019.
 
-- **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000. <br> <br>
+
+### Profit
+
+-   **Total Profit**: $13.1 million
+-   **Growth Over Time**: Increased from $963k in Q3 2017 to $1.6 million in Q2 2020.
+-   **Best Quarter**: Q1 2020, with $1.9 million in profit.
+-   **Weakest Quarter**: Q2 2018, with $379k in profit.
+-   **Peak Year**: Annual profit peaked at $4.6 million in 2019.
+
+
+
+### Categories
+
+-   **Bikes**
+    
+    -   **Revenue Growth**: Increased from $5.7 million in Q3 2018 to $10.7 million in Q2 2020.
+    -   **Peak Revenue**: $36 million in 2019, the highest-performing category.
+    -   **Profit Margin**: 13%.
+
+-   **Components**
+    
+    -   **Revenue Growth**: Increased from $310k in Q3 2018 to $1.4 million in Q2 2020.
+    -   **Peak Revenue**: $5.5 million in 2019.
+    -   **Profit Margin**: 15%.
+
+-   **Clothing**
+    
+    -   **Revenue Growth**: Increased from $19k in Q3 2018 to $320k in Q2 2020.
+    -   **Peak Revenue**: $1.1 million in 2019.
+    -   **Profit Margin**: 24%.
+
+-   **Accessories**
+    
+    -   **Revenue Growth**: Increased from $20k in Q3 2018 to $275k in Q2 2020.
+    -   **Peak Revenue**: $651k in 2019, the lowest-performing category.
+    -   **Profit Margin**: 59%.
+    
+
+### Subcategories
+
+-   **Most Profitable**: The most profitable subcategories are Mountain Bikes ($6.1 million), Road Bikes ($4.4 million), Mountain Frames ($500k), Touring Bikes ($466k), and Helmets ($230k).
+-   **Least Profitable**: The least profitable subcategories are Jerseys (-$88k), Touring Frames (-$3k), Caps (-$0.9k), Chains ($2.4k), and Pumps ($4.2k).
+-   **Best Profit Margin**: The subcategories with the best profit margins are Fenders (63%), Bike Stands (63%), Tires & Tubes (62%), Bottles & Cages (61%), and Cleaners (55%).
+-   **Worst Profit Margin**: The subcategories with the worst profit margins are Touring Frames (0%), Jerseys (1%), Road Frames (4%), Touring Bikes (5%), and Caps (10%).
+
+
+
+### Countries
+
+**Australia**
+
+-   **Categories**: The best category is Bikes ($3.5 million in profit), while Components trail at $14k in profit.
+-   **Subcategories**: Road Bikes lead with $1.9 million in profit, but Touring Frames post a -$115 loss.
+-   **Top Customers**: Average $8k in revenue.
+
+**Canada**
+
+-   **Categories**: Bikes generate the most profit at $708k, whereas Clothing stands at $81k.
+-   **Subcategories**: Mountain Bikes earn $562k in profit, while Jerseys dip to -$20k.
+-   **Top Customers**: Average $6k in revenue.
+
+**France**
+
+-   **Categories**: Bikes top the list at $938k in profit, while Clothing sits at $27k.
+-   **Subcategories**: Mountain Bikes bring in $497k in profit, whereas Jerseys record -$7k.
+-   **Top Customers**: Average $13k in revenue (highest average revenue).
+
+**Germany**
+
+-   **Categories**: Bikes accumulate $1 million in profit, while Clothing makes $8k.
+-   **Subcategories**: Road Bikes yield $514k in profit, but Jerseys post -$8k.
+-   **Top Customers**: Average $10k in revenue.
+
+**UK**
+
+-   **Categories**: Bikes reach $1.3 million in profit, while Clothing remains at $26k.
+-   **Subcategories**: Mountain Bikes garner $631k in profit, with Jerseys at -$6k.
+-   **Top Customers**: Average $8k in revenue.
+
+**US**
+
+-   **Categories**: Bikes bring in $3.6 million in profit, while Clothing stands at $220k.
+-   **Subcategories**: Mountain Bikes earn $2.6 million in profit, whereas Jerseys show a $50k loss.
+-   **Top Customers**: Average $7k in revenue.
