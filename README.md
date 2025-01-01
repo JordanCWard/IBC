@@ -4,7 +4,7 @@
 
 IBC, founded in 2017, is a global bike company specializing in bicycles and bicycle parts. IBC possesses extensive sales data that was previously underutilized. This data is now being analyzed to uncover valuable insights and drive improved commercial performance.
 
-This dashboard was created in Power BI. The data was cleaned using Excel and Power Query.
+This dashboard was created in Power BI. The data was cleaned using Excel and Power Query. <br>
 
 
 ### Dashboards
