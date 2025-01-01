@@ -6,26 +6,101 @@ IBC, founded in 2017, is a global bike company specializing in bicycles and bicy
 
 This dashboard was created in Power BI. The data was cleaned using Excel and Power Query.
 
-findings and recommendations, answer the questions below
+
+
+revenue
+110.34 million in total revenue
+increased from 6 million in 2018 to 12.77 million in 2020
+best quarter was consistently q3
+best performing quarter: 2020 q1, 1.9 million
+worst performing quarter: 2018 q2, 378k
+peaked in 2019 at 14.1 million
+
+
+profit
+13.08 million in total profit
+mountain bikes 6.1 million
+road bikes 4.4 million
+jerseys -88k
+no pattern with best performing quarter
+best performing quarter: 2019 q3, 14 million
+worst performing quarter: 2017 q4, 5.9 million
+peaked in 2020 q1 at 1.9 million
+
+
+profit margin by subcategory
+overall: accessories 59%, clothing 24%, components 15%, bikes 13%
+best: accessories started at 40% in 2017, 61% in 2020
+worst: components, 5% in 2017, 15% in 2020
+
+top 10 customers by revenue
+all in France, average 13k in revenue
+
+revenue by category
+bikes the most, then components, then clothing then accessories
+revenue peaked in 2019: 36 m for bikes, down to 21 m in 2020
+
+best subcategories by profit
+mountain bikes 6.1 million
+road bikes 4.4 million
+mountain frames 500k
+touring bikes 466k
+helmets 230k
+
+worst subcategories by profit
+jerseys -88k
+touring frames -3k
+caps -0.9k
+chains 2.4k
+pumps 4.2k
+
+best subcategories by profit margin
+fenders 63%
+bike stands 63%
+tires and tubes 62%
+bottles and cages 61%
+cleaners 55%
+
+worst subcategories by profit margin
+touring frames 0%
+jerseys 1%
+road frames 4%
+touring bikes 5%
+caps 10%
+
+
 Which products drive profit/loss in each country?
+
+US, canada, UK, france
+best: mountain bikes
+worst: jerseys
+
+Australia
+best: road bikes
+worst: touring frames
+
+Germany
+best: road bikes
+worst: jerseys
+
+
+
+
 What categories and subcategories drive profit/loss in each country?
+
 How does revenue develop over time?
 
 What is the year-over-year difference in profit and revenue?
-How does the average profit and profit margin develop over time?
-How does the revenue of each category develop over time?
-Which subcategories drive the profit margin?
-Which customers are the most valuable?
-Details about individual orders must be accessible.
-<br>
-<br>
-<br>
-<br>
-<br> <br> <br>
-<br>
 
-et
-edit below
+How does the average profit and profit margin develop over time?
+
+How does the revenue of each category develop over time?
+
+Which subcategories drive the profit margin?
+
+Which customers are the most valuable?
+
+Details about individual orders must be accessible.
 
 
 ### High-Impact Recommendations:
