@@ -57,29 +57,29 @@ This analysis was focused on providing insights and recommendations in the follo
 
 ### Categories
 
--   **Bikes**
+**Bikes**
     
-    -   **Revenue Growth**: Increased from $5.7 million in Q3 2018 to $10.7 million in Q2 2020.
-    -   **Peak Revenue**: $36 million in 2019, the highest-performing category.
-    -   **Profit Margin**: 13%.
+- **Revenue Growth**: Increased from $5.7 million in Q3 2018 to $10.7 million in Q2 2020.
+- **Peak Revenue**: $36 million in 2019, the highest-performing category.
+- **Profit Margin**: 13%.
 
--   **Components**
+**Components**
     
-    -   **Revenue Growth**: Increased from $310k in Q3 2018 to $1.4 million in Q2 2020.
-    -   **Peak Revenue**: $5.5 million in 2019.
-    -   **Profit Margin**: 15%.
+- **Revenue Growth**: Increased from $310k in Q3 2018 to $1.4 million in Q2 2020.
+- **Peak Revenue**: $5.5 million in 2019.
+- **Profit Margin**: 15%.
 
--   **Clothing**
+**Clothing**
     
-    -   **Revenue Growth**: Increased from $19k in Q3 2018 to $320k in Q2 2020.
-    -   **Peak Revenue**: $1.1 million in 2019.
-    -   **Profit Margin**: 24%.
+- **Revenue Growth**: Increased from $19k in Q3 2018 to $320k in Q2 2020.
+- **Peak Revenue**: $1.1 million in 2019.
+- **Profit Margin**: 24%.
 
--   **Accessories**
+**Accessories**
     
-    -   **Revenue Growth**: Increased from $20k in Q3 2018 to $275k in Q2 2020.
-    -   **Peak Revenue**: $651k in 2019, the lowest-performing category.
-    -   **Profit Margin**: 59%. <br> <br>
+- **Revenue Growth**: Increased from $20k in Q3 2018 to $275k in Q2 2020.
+- **Peak Revenue**: $651k in 2019, the lowest-performing category.
+- **Profit Margin**: 59%. <br> <br>
     
 
 ### Subcategories
