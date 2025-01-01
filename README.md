@@ -32,7 +32,7 @@ This analysis was focused on providing insights and recommendations in the follo
 - [Profit](#profit)
 - [Categories](#categories)
 - [Subcategories](#subcategories)
-- [Countries](#countries) <br> <br> <br>
+- [Countries](#countries) <br> <br>
 
 
 
@@ -42,7 +42,7 @@ This analysis was focused on providing insights and recommendations in the follo
 -   **Growth Over Time**: Increased from $6 million in Q3 2017 to $12.8 million in Q2 2020.
 -   **Best Quarter**: Q3 2019, generating $14.1 million.
 -   **Weakest Quarter**: Q4 2017, with $5.9 million.
--   **Peak Year**: Revenue peaked at $43 million in 2019.
+-   **Peak Year**: Revenue peaked at $43 million in 2019. <br> <br>
 
 
 ### Profit
@@ -51,7 +51,7 @@ This analysis was focused on providing insights and recommendations in the follo
 -   **Growth Over Time**: Increased from $963k in Q3 2017 to $1.6 million in Q2 2020.
 -   **Best Quarter**: Q1 2020, with $1.9 million in profit.
 -   **Weakest Quarter**: Q2 2018, with $379k in profit.
--   **Peak Year**: Annual profit peaked at $4.6 million in 2019.
+-   **Peak Year**: Annual profit peaked at $4.6 million in 2019. <br> <br>
 
 
 
@@ -79,7 +79,7 @@ This analysis was focused on providing insights and recommendations in the follo
     
     -   **Revenue Growth**: Increased from $20k in Q3 2018 to $275k in Q2 2020.
     -   **Peak Revenue**: $651k in 2019, the lowest-performing category.
-    -   **Profit Margin**: 59%.
+    -   **Profit Margin**: 59%. <br> <br>
     
 
 ### Subcategories
@@ -87,7 +87,7 @@ This analysis was focused on providing insights and recommendations in the follo
 -   **Most Profitable**: The most profitable subcategories are Mountain Bikes ($6.1 million), Road Bikes ($4.4 million), Mountain Frames ($500k), Touring Bikes ($466k), and Helmets ($230k).
 -   **Least Profitable**: The least profitable subcategories are Jerseys (-$88k), Touring Frames (-$3k), Caps (-$0.9k), Chains ($2.4k), and Pumps ($4.2k).
 -   **Best Profit Margin**: The subcategories with the best profit margins are Fenders (63%), Bike Stands (63%), Tires & Tubes (62%), Bottles & Cages (61%), and Cleaners (55%).
--   **Worst Profit Margin**: The subcategories with the worst profit margins are Touring Frames (0%), Jerseys (1%), Road Frames (4%), Touring Bikes (5%), and Caps (10%).
+-   **Worst Profit Margin**: The subcategories with the worst profit margins are Touring Frames (0%), Jerseys (1%), Road Frames (4%), Touring Bikes (5%), and Caps (10%). <br> <br>
 
 
 
