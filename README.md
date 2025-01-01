@@ -7,23 +7,6 @@ IBC, founded in 2017, is a global bike company specializing in bicycles and bicy
 This dashboard was created in Power BI. The data was cleaned using Excel and Power Query.
 
 
-### High-Impact Recommendations:
-
-- **Strategic Growth in Japan:** Capitalize on Japan’s preference for premium products and high average order value (AOV) by enhancing localized strategies to drive sales and deepen market penetration.
-- **March Sales Opportunity:** Maximize the 18% March rebound with targeted campaigns focused on post-holiday customers, featuring spring promotions and new product launches.
-- **Address Refund Rates:** Tackle high refund rates in the UK, Canada, and India by identifying root causes and implementing solutions to boost satisfaction and profitability. <br> <br>
-
-### High-Impact Recommendations:
-
--   **Capitalize on High-Margin Items:** Focus on subcategories and categories with the highest profit margins, including Accessories (59% margin), Fenders, Bike Stands, and Tires & Tubes.
-
--   **Optimize Underperforming Products:** Revisit pricing, production, and marketing strategies for subcategories with weak or negative profit margins (e.g., Jerseys, Touring Frames).
-
--   **Leverage Best-Selling Categories:** Bikes consistently show strong revenue (peaking at $36 million in 2019). Strengthen marketing campaigns and supply chain management around key bike subcategories (Mountain Bikes, Road Bikes) to build momentum.
-
--   **Tailor Efforts to Top Regions and Customers:** Countries such as France and Germany have higher average revenue per top customer ($13k in France, $10k in Germany). Create targeted promotions or loyalty programs for France and Germany to further increase sales.
-
-
 ### Dashboards
 
 <img width="1200" alt="Dashboard" src="https://github.com/user-attachments/assets/c8cc56fc-9b96-4eb1-b2c5-b27bbf669576" />
@@ -33,6 +16,17 @@ This dashboard was created in Power BI. The data was cleaned using Excel and Pow
 <img width="1200" alt="Sales & Customers" src="https://github.com/user-attachments/assets/68441bfb-77a1-470f-a536-c63be19faa9c" />
 
 <br>
+
+
+### High-Impact Recommendations:
+
+-   **Capitalize on High-Margin Items:** Focus on subcategories and categories with the highest profit margins, including Accessories (59% margin), Fenders, Bike Stands, and Tires & Tubes.
+-   **Optimize Underperforming Products:** Revisit pricing, production, and marketing strategies for subcategories with weak or negative profit margins (e.g., Jerseys, Touring Frames).
+-   **Leverage Best-Selling Categories:** Bikes consistently show strong revenue (peaking at $36 million in 2019). Strengthen marketing campaigns and supply chain management around key bike subcategories (Mountain Bikes, Road Bikes) to build momentum.
+-   **Tailor Efforts to Top Regions and Customers:** Countries such as France and Germany have higher average revenue per top customer ($13k in France, $10k in Germany). Create targeted promotions or loyalty programs for France and Germany to further increase sales.
+
+
+
 
 ### <p align="center"> Insights Deep-Dive </p>
 
