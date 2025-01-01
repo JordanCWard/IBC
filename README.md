@@ -26,7 +26,7 @@ This dashboard was created in Power BI. The data was cleaned using Excel and Pow
 
 ### <p align="center"> Insights Deep-Dive </p>
 
-This analysis focuses on providing insights and recommendations in the following key areas:
+This analysis was focused on providing insights and recommendations in the following key areas:
 
 - [Revenue](#revenue)
 - [Profit](#profit)
