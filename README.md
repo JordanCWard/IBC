@@ -55,25 +55,25 @@ This analysis was focused on providing insights and recommendations in the follo
 
 ### Categories
 
-**Bikes**
+Bikes
     
 - **Revenue Growth**: Increased from $5.7 million in Q3 2018 to $10.7 million in Q2 2020.
 - **Peak Revenue**: $36 million in 2019, the highest-performing category.
 - **Profit Margin**: 13%.
 
-**Components**
+Components
     
 - **Revenue Growth**: Increased from $310k in Q3 2018 to $1.4 million in Q2 2020.
 - **Peak Revenue**: $5.5 million in 2019.
 - **Profit Margin**: 15%.
 
-**Clothing**
+Clothing
     
 - **Revenue Growth**: Increased from $19k in Q3 2018 to $320k in Q2 2020.
 - **Peak Revenue**: $1.1 million in 2019.
 - **Profit Margin**: 24%.
 
-**Accessories**
+Accessories
     
 - **Revenue Growth**: Increased from $20k in Q3 2018 to $275k in Q2 2020.
 - **Peak Revenue**: $651k in 2019, the lowest-performing category.
@@ -91,37 +91,37 @@ This analysis was focused on providing insights and recommendations in the follo
 
 ### Countries
 
-**Australia**
+Australia
 
 -   **Categories**: The best category is Bikes ($3.5 million in profit), while Components trail at $14k in profit.
 -   **Subcategories**: Road Bikes lead with $1.9 million in profit, but Touring Frames post a -$115 loss.
 -   **Top Customers**: Average $8k in revenue.
 
-**Canada**
+Canada
 
 -   **Categories**: Bikes generate the most profit at $708k, whereas Clothing stands at $81k.
 -   **Subcategories**: Mountain Bikes earn $562k in profit, while Jerseys dip to -$20k.
 -   **Top Customers**: Average $6k in revenue.
 
-**France**
+France
 
 -   **Categories**: Bikes top the list at $938k in profit, while Clothing sits at $27k.
 -   **Subcategories**: Mountain Bikes bring in $497k in profit, whereas Jerseys record -$7k.
 -   **Top Customers**: Average $13k in revenue (highest average revenue).
 
-**Germany**
+Germany
 
 -   **Categories**: Bikes accumulate $1 million in profit, while Clothing makes $8k.
 -   **Subcategories**: Road Bikes yield $514k in profit, but Jerseys post -$8k.
 -   **Top Customers**: Average $10k in revenue.
 
-**UK**
+UK
 
 -   **Categories**: Bikes reach $1.3 million in profit, while Clothing remains at $26k.
 -   **Subcategories**: Mountain Bikes garner $631k in profit, with Jerseys at -$6k.
 -   **Top Customers**: Average $8k in revenue.
 
-**US**
+US
 
 -   **Categories**: Bikes bring in $3.6 million in profit, while Clothing stands at $220k.
 -   **Subcategories**: Mountain Bikes earn $2.6 million in profit, whereas Jerseys show a $50k loss.
