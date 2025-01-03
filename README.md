@@ -10,7 +10,7 @@ This dashboard was created in Power BI. The data was cleaned using Excel and Pow
 -   **Capitalize on High-Margin Items:** Focus on subcategories and categories with the highest profit margins, including Accessories (59% margin), Fenders, Bike Stands, and Tires & Tubes.
 -   **Optimize Underperforming Products:** Revisit pricing, production, and marketing strategies for subcategories with weak or negative profit margins (e.g., Jerseys, Touring Frames).
 -   **Leverage Best-Selling Categories:** Bikes consistently show strong revenue (peaking at $36 million in 2019). Strengthen marketing campaigns and supply chain management around key bike subcategories (Mountain Bikes, Road Bikes) to build momentum.
--   **Tailor Efforts to Top Regions and Customers:** Countries such as France and Germany have higher average revenue per top customer ($13k in France, $10k in Germany). Create targeted promotions or loyalty programs for France and Germany to further increase sales <br> <br>
+-   **Tailor Efforts to Top Regions and Customers:** Countries such as France and Germany have higher average revenue per top customer ($13k in France, $10k in Germany). Create targeted promotions or loyalty programs for France and Germany to further increase sales. <br> <br>
 
 
 ### Dashboards
