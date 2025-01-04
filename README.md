@@ -13,6 +13,7 @@ This dashboard was created in Power BI. The data was cleaned using Excel and Pow
 -   **Tailor Efforts to Top Regions and Customers:** Countries such as France and Germany have higher average revenue per top customer ($13k in France, $10k in Germany). Create targeted promotions or loyalty programs for France and Germany to further increase sales. <br> <br>
 
 
+
 ### Dashboards
 
 <img width="1200" alt="Dashboard" src="https://github.com/user-attachments/assets/c8cc56fc-9b96-4eb1-b2c5-b27bbf669576" /> <br> <br>
