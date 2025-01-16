@@ -4,8 +4,14 @@ IBC, founded in 2017, is a global bike company specializing in bicycles and bicy
 
 This dashboard was created in Power BI. The data was cleaned using Excel and Power Query. <br> <br>
 
+### Executive Summary
 
-### High-Impact Recommendations:
+IBC’s main objectives are to leverage underutilized sales data for increased profitability, strengthen product offerings by focusing on high-margin subcategories, and tailor regional strategies to boost revenue and customer loyalty. Additionally, the company aims to address underperforming products, refine marketing approaches, and optimize production plans to ensure sustainable growth across its global footprint.
+
+From Q3 2017 to Q2 2020, IBC generated $110.3 million in total revenue and $13.1 million in total profit, with 2019 marking its peak year ($43M revenue, $4.6M profit). Bikes remained the top category ($36M in 2019) yet held a profit margin of only 13%, while Accessories, though contributing the least revenue ($651k in 2019), boasted a 59% margin. Subcategories like Fenders, Bike Stands, and Tires & Tubes showed margins above 60%, whereas Jerseys and Touring Frames registered weak or negative returns. Regionally, France and Germany emerged as key markets, demonstrating strong per-customer revenue potential, and Australia and the US stood out for top-performing bike subcategories. <br> <br>
+
+
+### High-Impact Recommendations
 
 -   **Capitalize on High-Margin Items:** Focus on subcategories and categories with the highest profit margins, including Accessories (59% margin), Fenders, Bike Stands, and Tires & Tubes.
 -   **Optimize Underperforming Products:** Revisit pricing, production, and marketing strategies for subcategories with weak or negative profit margins (e.g., Jerseys, Touring Frames).
